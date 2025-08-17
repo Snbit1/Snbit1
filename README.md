@@ -29,15 +29,12 @@ HTTP, DOM API, архитектура фронтенд-приложений
 
 ### [Игры разума](https://github.com/Snbit1/Brain-Games)  
 Интерактивные логические игры с вопросами и проверкой ответов, реализованные на JavaScript.  
-**Технологии:** JavaScript, DOM, HTML, CSS
 
 ### [Вычислитель отличий](https://github.com/Snbit1/Difference-Calculator)  
 Программа для сравнения данных определённых форматов (.json, .yml).  
-**Технологии:** JavaScript, Node.js
 
 ### [Форма регистрации](https://github.com/Snbit1/Registration-Form)  
 Динамическая форма с валидацией, блокировкой кнопки при отправке и управлением фокусом для удобства пользователя.  
-**Технологии:** JavaScript, HTML, CSS
 
 ---
 
