@@ -5,36 +5,45 @@
 ---
 
 ## 💻 О себе
-Начинающий фронтенд-разработчик с интересом к веб-технологиям и современным инструментам разработки. Быстро обучаюсь, умею работать в команде и находить решения в сложных ситуациях.  
+Начинающий фронтенд-разработчик с интересом к веб-технологиям и современным инструментам разработки.  
+Быстро обучаюсь, умею работать в команде и находить решения в сложных ситуациях.  
 
 ---
 
 ## 🛠️ Навыки
 
-**Языки и технологии:**  
-JavaScript (ES6+), HTML5, CSS3  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) 
+![HTML5](https://img.shields.io/badge/HTML5-orange) 
+![CSS3](https://img.shields.io/badge/CSS3-blue) 
+![Git](https://img.shields.io/badge/Git-black) 
+![GitHub](https://img.shields.io/badge/GitHub-181717) 
+![Vite](https://img.shields.io/badge/Vite-646CFF) 
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-lightgrey)
 
-**Инструменты:**  
-Git, GitHub, npm, базовый опыт с CI (GitHub Actions)  
-
-**Базовые знания:**  
-HTTP, DOM API, архитектура фронтенд-приложений  
-
-**Языки:**  
-Английский – A2  
+**Frontend:** JavaScript (ES6+), HTML5, CSS3  
+**Инструменты:** Git, GitHub, npm, Vite, GitHub Actions  
+**Понимание:** HTTP, DOM API, архитектура фронтенд-приложений  
+**Языки:** Английский – A2  
 
 ---
 
 ## 📂 Проекты
 
+### [RSS-агрегатор](https://github.com/Snbit1/RSS-aggregator)  
+Веб-приложение для чтения RSS-лент с обработкой ошибок, локализацией (i18next) и обновлением ленты в реальном времени.  
+**Стек:** JavaScript, Vite, Axios, i18next, Bootstrap  
+
 ### [Игры разума](https://github.com/Snbit1/Brain-Games)  
-Интерактивные логические игры с вопросами и проверкой ответов, реализованные на JavaScript.  
+Интерактивные логические игры с вопросами и проверкой ответов.  
+**Стек:** JavaScript, Node.js  
 
 ### [Вычислитель отличий](https://github.com/Snbit1/Difference-Calculator)  
-Программа для сравнения данных определённых форматов (.json, .yml).  
+Программа для сравнения данных в разных форматах (.json, .yml).  
+**Стек:** JavaScript, Node.js  
 
 ### [Форма регистрации](https://github.com/Snbit1/Registration-Form)  
-Динамическая форма с валидацией, блокировкой кнопки при отправке и управлением фокусом для удобства пользователя.  
+Динамическая форма с валидацией, блокировкой кнопки при отправке и управлением фокусом.  
+**Стек:** JavaScript, HTML, CSS  
 
 ---
 
