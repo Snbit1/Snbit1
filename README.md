@@ -15,12 +15,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) 
 ![HTML5](https://img.shields.io/badge/HTML5-orange) 
 ![CSS3](https://img.shields.io/badge/CSS3-blue) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717) 
 ![Vite](https://img.shields.io/badge/Vite-646CFF) 
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-lightgrey)
 
-**Frontend:** JavaScript (ES6+), HTML5, CSS3  
+**Frontend:** JavaScript (ES6+), HTML5, CSS3, React, Redux Toolkit
 **Инструменты:** Git, GitHub, npm, Vite, GitHub Actions  
 **Базовые знания:** HTTP, DOM API, архитектура фронтенд-приложений  
 **Языки:** Английский – A2  
@@ -43,7 +45,11 @@
 
 ### [Форма регистрации](https://github.com/Snbit1/Registration-Form)  
 Динамическая форма с валидацией, блокировкой кнопки при отправке и управлением фокусом.  
-**Стек:** JavaScript, HTML, CSS  
+**Стек:** JavaScript, HTML, CSS
+
+### [Slack - чат](https://github.com/Snbit1/frontend-project-12)
+Веб-приложение для обмена сообщениями в реальном времени с авторизацией, каналами и управлением сообщениями.
+**Стек:** React, Redux Toolkit, JavaScript, CSS
 
 ---
 
@@ -64,7 +70,7 @@
 **РХТУ им. Д.И. Менделеева** *(Сентябрь 2019 – Июнь 2023)*  
 Бакалавр: Стандартизация, сертификация и метрология  
 
-**Hexlet, онлайн-школа** *(Ноябрь 2024 – по настоящее время)*  
+**Hexlet, онлайн-школа** *(Ноябрь 2024 – Ноябрь 2025)*  
 Курс «Фронтенд-разработчик»  
 
 ---
