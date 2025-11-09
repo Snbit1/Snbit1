@@ -22,7 +22,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF) 
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-lightgrey)
 
-**Frontend:** JavaScript (ES6+), HTML5, CSS3, React, Redux Toolkit
+**Frontend:** JavaScript (ES6+), HTML5, CSS3, React, Redux Toolkit  
 **Инструменты:** Git, GitHub, npm, Vite, GitHub Actions  
 **Базовые знания:** HTTP, DOM API, архитектура фронтенд-приложений  
 **Языки:** Английский – A2  
@@ -45,11 +45,11 @@
 
 ### [Форма регистрации](https://github.com/Snbit1/Registration-Form)  
 Динамическая форма с валидацией, блокировкой кнопки при отправке и управлением фокусом.  
-**Стек:** JavaScript, HTML, CSS
+**Стек:** JavaScript, HTML, CSS  
 
-### [Slack - чат](https://github.com/Snbit1/frontend-project-12)
-Веб-приложение для обмена сообщениями в реальном времени с авторизацией, каналами и управлением сообщениями.
-**Стек:** React, Redux Toolkit, JavaScript, CSS
+### [Slack - чат](https://github.com/Snbit1/frontend-project-12)  
+Веб-приложение для обмена сообщениями в реальном времени с авторизацией, каналами и управлением сообщениями.  
+**Стек:** React, Redux Toolkit, JavaScript, CSS  
 
 ---
 
