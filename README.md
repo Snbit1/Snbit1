@@ -19,8 +19,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717) 
-![Vite](https://img.shields.io/badge/Vite-646CFF) 
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-lightgrey)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-lightgrey) 
 
 **Frontend:** JavaScript (ES6+), HTML5, CSS3, React, Redux Toolkit  
 **Инструменты:** Git, GitHub, npm, Vite, GitHub Actions  
