@@ -32,6 +32,10 @@
 
 ## 📂 Проекты
 
+### [Slack - чат](https://github.com/Snbit1/frontend-project-12)  
+Веб-приложение для обмена сообщениями в реальном времени с авторизацией, каналами и управлением сообщениями.  
+**Стек:** React, Redux Toolkit, JavaScript, CSS  
+
 ### [RSS-агрегатор](https://github.com/Snbit1/RSS-aggregator)  
 Веб-приложение для чтения RSS-лент с обработкой ошибок, мультиязычностью и обновлением ленты в реальном времени.  
 **Стек:** JavaScript, Vite, Axios, i18next, Bootstrap  
@@ -47,10 +51,6 @@
 ### [Форма регистрации](https://github.com/Snbit1/Registration-Form)  
 Динамическая форма с валидацией, блокировкой кнопки при отправке и управлением фокусом.  
 **Стек:** JavaScript, HTML, CSS  
-
-### [Slack - чат](https://github.com/Snbit1/frontend-project-12)  
-Веб-приложение для обмена сообщениями в реальном времени с авторизацией, каналами и управлением сообщениями.  
-**Стек:** React, Redux Toolkit, JavaScript, CSS  
 
 ---
 
