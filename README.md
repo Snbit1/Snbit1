@@ -14,6 +14,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) 
 ![HTML5](https://img.shields.io/badge/HTML5-orange) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-00758F?logo=postgresql&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-blue) 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
@@ -23,14 +25,18 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-lightgrey) 
 
-**Frontend:** JavaScript (ES6+), HTML5, CSS3, React, Redux Toolkit  
+**Frontend:** JavaScript (ES6+),TypeSctipt HTML5, CSS3, React, Redux Toolkit  
 **Инструменты:** Git, GitHub, npm, Vite, GitHub Actions  
-**Базовые знания:** HTTP, DOM API, архитектура фронтенд-приложений  
+**Базовые знания:** HTTP, DOM API, архитектура фронтенд-приложений, основы SQL  
 **Языки:** Английский – A2  
 
 ---
 
 ## 📂 Проекты
+
+### [Стартап: Blink] — CRM-сервис для ресторанов (Frontend, командная разработка; приватный репозиторий GitLab)  
+Разработка десктопного сервиса для владельцев и менеджеров заведений. Создаю CRM-модуль для добавления ресторанов в базу данных, интеграция с backend API, работа с формами и состоянием.  
+Проект является частью экосистемы с мобильным приложением и backend AI-сервисом.  
 
 ### [Slack - чат](https://github.com/Snbit1/frontend-project-12)  
 Веб-приложение для обмена сообщениями в реальном времени с авторизацией, каналами и управлением сообщениями.  
